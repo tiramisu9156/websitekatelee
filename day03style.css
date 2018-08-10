@@ -1,0 +1,30 @@
+ul.nav{
+  list-style: none;
+  padding:0;
+  }
+  ul.nav li{
+    display: inline;
+  }
+a{
+  text-decoration: none;
+  color: white;
+  padding: 10px
+}
+nav{
+  background-color: black;
+  padding: 5px;
+}
+
+a:hover{
+  background-color: orange;
+}
+button{
+  background-color: navy;
+  color: aqua;
+}
+
+#submit{
+  background-color: red;
+  color: white;
+  padding: 5px;
+}

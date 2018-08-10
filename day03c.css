@@ -1,0 +1,6 @@
+#column1, #column1{
+  width: 45%
+  height: 900px
+  border: 1px solid black;
+  float: left;
+}

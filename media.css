@@ -1,0 +1,41 @@
+#box1{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: inline-block;
+}
+
+#box2{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  display: inline-block;
+}
+
+#box3{
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  display: inline-block;
+
+}
+
+@media (max-width: 640px){
+  #box1{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+  }
+
+  #box2{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+  }
+
+  #box3{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+  }
+}
